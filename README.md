@@ -1,1 +1,1 @@
-"# Tic-Tac-Toe-Magic-Square-AI-principle" 
+"# Tic-Tac-Toe-Magic-Square-principle" 
